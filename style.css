@@ -1,7 +1,6 @@
 body
 {
-background-image: url(gears_2.png);
-background-size: cover;
+background-image: url(gears_2.png) 100% 100%;
 background-color: #330077;
 padding: 70px;
 }
