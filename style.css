@@ -1,19 +1,15 @@
 body
 {
-background-color: #003333;
+background-color: #007777;
 padding: 150px;
-}
-div
-{
-width: 50%;
-height: 30%;
 }
 p
 {
 width: 35%;
 padding: 30px;
+margin: 70px;
 text-align: center;
-background-color: #007777;
+background-color: #003333;
 border-radius: 30px;
 }
 a
