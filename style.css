@@ -3,6 +3,11 @@ body
 background-color: #003333;
 padding: 150px;
 }
+div
+{
+width: 50%;
+height: 30%;
+}
 p
 {
 width: 35%;
