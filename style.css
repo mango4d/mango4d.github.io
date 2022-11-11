@@ -3,15 +3,16 @@ background-color: #003333;
 padding: 150px;
 }
 p{
-width: 35%;
+width: 30%;
 padding: 30px;
 text-align: center;
 background-color: #005555;
 border-radius: 30px;
+text-decoration: none;
 }
 a{
 font-style: Comic Sans MS, Arial;
-font-size: 30;
+font-size: 21;
 color: #ffffaa;
 text-decoration: none;
 }
