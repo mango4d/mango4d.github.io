@@ -1,10 +1,12 @@
-body
-{
+body{
 background-color: #007777;
 padding: 150px;
 }
-p
-{
+iframe{
+width: 500px;
+height: 300px;
+}
+p{
 width: 35%;
 padding: 30px;
 margin: 70px;
@@ -12,9 +14,9 @@ text-align: center;
 background-color: #003333;
 border-radius: 30px;
 }
-a
-{
+a{
 font-style: Comic Sans MS, Arial;
 font-size: 30;
 color: #ffffaa;
+text-decoration: none;
 }
