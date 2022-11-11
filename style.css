@@ -2,7 +2,7 @@ body{
 background-color: #003333;
 padding: 70px 150px;
 font-size: 37;
-color: #ffff77;
+color: #ffffсс;
 }
 p{
 width: 70%;
@@ -15,6 +15,7 @@ a{
 font-style: Comic Sans MS, Arial;
 font-size: 21;
 color: #ffffaa;
+padding: 30px;
 background-color: #003333;
 border-radius: 15px;
 text-decoration: none;
