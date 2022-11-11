@@ -1,20 +1,19 @@
 body
 {
-background-color: #33ccaa;
+background-color: #003333;
 padding: 150px;
 }
 p
 {
-width: 70%;
+width: 35%;
 padding: 30px;
 text-align: center;
-background-color: #ffffaa;
-border-color: #770077;
+background-color: #007777;
 border-radius: 30px;
 }
 a
 {
 font-style: Comic Sans MS, Arial;
 font-size: 30;
-color: #007777;
+color: #ffffaa;
 }
